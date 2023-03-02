@@ -2,10 +2,10 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://example.org/categories/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/tags/draft/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/categories/draft/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/posts/hello-world/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/posts/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/tags/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
-      <loc>http://example.org/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url></urlset>
+      <loc>https://bearxz.github.io/bearxz/categories/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/tags/draft/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/categories/draft/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/posts/hello-world/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/posts/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/tags/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url><url>
+      <loc>https://bearxz.github.io/bearxz/</loc><lastmod>2023-03-02T22:44:18&#43;08:00</lastmod></url></urlset>
