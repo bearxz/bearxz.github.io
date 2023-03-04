@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>draft on 十二楼五城</title>
+    <title>draft - 标签 - 十二楼五城</title>
     <link>https://bearxz.github.io/tags/draft/</link>
-    <description>Recent content in draft on 十二楼五城</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Mar 2023 22:44:18 +0800</lastBuildDate><atom:link href="https://bearxz.github.io/tags/draft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://bearxz.github.io/posts/hello-world/</link>
-      <pubDate>Thu, 02 Mar 2023 22:44:18 +0800</pubDate>
-      
-      <guid>https://bearxz.github.io/posts/hello-world/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+    <description>draft - 标签 - 十二楼五城</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 02 Mar 2023 22:44:18 &#43;0800</lastBuildDate><atom:link href="https://bearxz.github.io/tags/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Hello World</title>
+  <link>https://bearxz.github.io/posts/hello-world/</link>
+  <pubDate>Thu, 02 Mar 2023 22:44:18 &#43;0800</pubDate>
+  <author>map[avatar:https://avatars.githubusercontent.com/u/37499441?v=4 email:&lt;nil&gt; link:&lt;nil&gt; name:bearxz]</author>
+  <guid>https://bearxz.github.io/posts/hello-world/</guid>
+  <description><![CDATA[<p>
+这是一个简单的博客测试页面</p>]]></description>
+</item>
+</channel>
 </rss>
