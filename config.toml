@@ -9,6 +9,8 @@ enablePWA = true
 hasCJKLanguage = true
 images = ['/assets/logo.ong']
 title = '十二楼五城'
+# 主题
+theme = 'FixIt'
 
 # 作者配置
 [author]
@@ -17,8 +19,6 @@ email = ""
 link = "" 
 name = "bearxz" 
 
-# 主题
-theme = 'FixIt'
 [menu]
 [[menu.main]]
 identifier = "posts"
